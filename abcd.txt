@@ -1,0 +1,3 @@
+setx path "% path%;C:\Users\alokk\OneDrive\Desktop" /M
+
+setx PATH "%PATH:;{C:\Users\alokk\OneDrive\Desktop\Exam}=%"
